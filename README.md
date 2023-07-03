@@ -1,5 +1,8 @@
 # Learnable-noise
 
+ my model is in model/graph/SimGCL.py
+ SimGCL0 stands for original code of SimGCL
+ 
 
 ## Citation
   @article{yu2022self,
